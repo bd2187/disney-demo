@@ -1,0 +1,30 @@
+.carousel {
+  background: #e0e0e0;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, .5);
+  margin-bottom: 4em;
+}
+
+.carousel-inner {
+  max-width: 704px;
+  margin: 0 auto;
+}
+
+.carousel-item {
+  height: 50vh;
+  width: 100%;
+}
+
+#firstSlide {
+  background: url("http://www.ramascreen.com/wp-content/uploads/2017/01/Beauty-And-The-Beast-3.jpg")
+    no-repeat center/cover;
+}
+
+#secondSlide {
+  background: url("http://www.ramascreen.com/wp-content/uploads/2016/01/The-Jungle-Book-banner.jpg")
+    no-repeat center/cover;
+}
+
+#thirdSlide {
+  background: url("https://www.malextra.com/image-library/deluxe/m/maleficent-banner-poster.jpg")
+    no-repeat center/cover;
+}

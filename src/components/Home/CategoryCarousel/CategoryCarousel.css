@@ -1,0 +1,30 @@
+h4 {
+  color: #768dff;
+  transition: all .4s;
+}
+
+h4:hover {
+  color: #424242;
+  cursor: pointer;
+}
+
+.coverflow__container__1P-xE {
+  background: #e0e0e0;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, .5);
+  margin-bottom: 3em;
+  padding: 1em;
+  width: 100%;
+}
+
+.coverflow__actions__1D5QO
+.coverflow__button__25AqX {
+  background: #768dff;
+  border: none;
+  transition: all .3s;
+}
+
+.coverflow__actions__1D5QO
+.coverflow__button__25AqX:hover {
+  background: #fff;
+  color: #768dff;
+}

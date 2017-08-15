@@ -1,0 +1,40 @@
+h6 {
+  color: #fff;
+  font-size: 1.3em;
+}
+
+img {
+  max-width: 222px;
+}
+
+.footer {
+  background: #768dff;
+  text-align: center;
+  padding: 1em;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+}
+
+.footerBox {
+  margin-bottom: 2em;
+}
+
+li {
+  padding: 0;
+  font-size: .9em;
+  margin-bottom: .3em;
+}
+
+.btn {
+  background: #fff;
+  margin: .5em 1em;
+  border-radius: 10px;
+}
+
+@media screen and (min-width: 930px) {
+  .inner {
+    display: flex;
+    justify-content: space-around;
+  }
+}

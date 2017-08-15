@@ -1,0 +1,22 @@
+.navbar {
+  position: fixed;
+  left: -150px;
+  top: 0;
+  bottom: 0;
+  /*display: none;*/
+
+  padding: 30px;
+  width: 150px;
+  background-color: #768dff;
+  z-index: 0;
+}
+
+li {
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+
+li:hover:not(:first-child) {
+  color: rgba(255, 255, 255, 1);
+}

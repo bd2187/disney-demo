@@ -1,0 +1,14 @@
+.logo {
+  text-align: center;
+  background: #768dff;
+  width: 100%;
+  padding: .5em 0;
+}
+
+.logo img {
+  width: 100px;
+}
+
+.logo img:hover {
+  cursor: pointer;
+}
